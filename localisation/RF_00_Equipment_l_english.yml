@@ -4188,11 +4188,11 @@ FRA_EQUIPMENT_VERSION_13:0 "série M"
 
 #Infantry Equip
 
-FRA_infantry_equipment_0:0 "르벨 소총 모델 1886 M93"
+FRA_infantry_equipment_0:0 "르벨 모델 1886 M93 소총"
 FRA_infantry_equipment_0_short:0 "르벨 M93"
 FRA_infantry_equipment_1:0 "7mm MAS M.35 노리쇠 방식 소총"
 FRA_infantry_equipment_1_short:0 "MAS-35"
-FRA_infantry_equipment_1_desc:0 "프랑스군은 대전쟁의 참호에서 얻은 경험을 통해 1920년대의 대부분을 무기와 탄약 표준화에 보냈습니다. 이 표준화 프로그램 중 하나가 바로 MAS-35의 조기 채택 및 생산으로, 이전 전쟁의 프랑스 소총의 장점을 새로운 기계적 가공 및 재료 혁신과 결합한 기병총 길이의 볼트액션 소총이었습니다."
+FRA_infantry_equipment_1_desc:0 "프랑스군은 대전쟁의 참호에서 얻은 경험을 통해 1920년대의 대부분을 무기와 탄약 표준화에 보냈습니다. 이 표준화 프로그램 중 하나가 바로 MAS-35의 조기 채택 및 생산으로, 이전 전쟁의 프랑스 소총의 장점을 새로운 기계적 가공 및 재료 혁신과 결합한 기병총 길이의 노리쇠 방식 소총이었습니다."
 FRA_infantry_equipment_2:0 "7.65mm MAS M.38 기관단총"
 FRA_infantry_equipment_2_short:0 "MAS-38"
 FRA_infantry_equipment_3:0 "7mm MAS M.41 반자동 소총"
@@ -4287,13 +4287,13 @@ FRA_modern_tank_equipment_1_short:0 "SOMUA 50t"
 ###
 
 ### Land ###
-GUN_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
-GUN_infantry_equipment_0_short:0 "Lebel Mle M93"
-GUN_infantry_equipment_1:0 "Karabiner 98k"
-GUN_infantry_equipment_1_short:0 "Karabiner 98k"
+GUN_infantry_equipment_0:0 "르벨 모델 1886 M93 소총"
+GUN_infantry_equipment_0_short:0 "르벨 모델 M93"
+GUN_infantry_equipment_1:0 "카라비너 98k"
+GUN_infantry_equipment_1_short:0 "카라비너 98k"
 
-GUN_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
-GUN_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
+GUN_support_weapons:0 "MG-08/15 & 경박격포"
+GUN_support_weapons2:0 "MG-34 & 8cm 34 박격포"
 
 ###
 ### PRS ###
